@@ -86,6 +86,7 @@ on:
         options:
           - -ophub
           - -yourname
+          - -Lingjiao
 
 env:
   TZ: America/New_York
